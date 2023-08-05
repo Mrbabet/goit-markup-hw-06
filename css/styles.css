@@ -257,7 +257,7 @@ p {
   border: 1px solid var(--navybluemodal);
   border-radius: 4px;
 }
-.modal svg {
+.modal .privacy-policy svg {
   opacity: 0;
   top: -1px;
   left: -1px;
